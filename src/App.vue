@@ -1,3 +1,4 @@
+<!-- 为了测试git的功能我在这里加一行注释 -->
 <script setup>
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
